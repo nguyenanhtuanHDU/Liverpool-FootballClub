@@ -1,0 +1,1534 @@
+@media screen and (min-width: 64em){
+
+}
+
+@media screen and (min-width: 46.25em) and (max-width: 63.9375em){
+    .img-map{
+        position: absolute;
+        width: 1956px;
+        height: 11082px;        
+        margin-top: -3010px;    
+    }
+    #header{
+        overflow: hidden;
+    }
+    .coach_title{
+        top: 8200px;
+        color: black;
+        left: 800px;
+        font-size: 85px;
+
+    }
+    .title_intro{
+        left: 710px;
+        font-size: 85px;
+    }
+    .second_container {
+        height: 100px;
+        width: 1954px;
+    }
+    .search-box .icon {
+        position: absolute;
+        width: 78px;
+        height: 78px;
+        line-height: 76px;
+        border-radius: 20px;
+    }
+    .search-box input {
+        height: 78px;
+    }
+    #header{
+        padding: 17px 36px;
+        left: -86px;
+    }
+    #nav > li > a {
+        font-size: 39px;
+        padding: 0px 16px;
+        line-height: 42px;
+    }
+    .img_leaguge {
+        width: 78px;
+        margin-left: 407px;              
+    }
+    .search-box input::placeholder{
+        font-size: 37px;
+    }
+    #nav li:hover .subnab_1,
+    #nav li:hover .subnab_2,
+    #nav li:hover .subnab_3,
+    #nav li:hover .subnab_4{
+        display: none;
+    }
+    #nav > li > a:hover{
+        background-color: #4DBDFF;
+        color: white;
+        transition: 0.6s ease;
+    }
+    .ring_logo2 {
+        height: 600px;
+        width: 600px;
+        left: 623px;
+        margin-left: 60px;
+        border: 20px solid black;
+        border-right: 2px solid transparent;
+        border-left: 2px solid transparent;
+    }
+    .ring_logo1 {
+        height: 550px;
+        width: 550px;
+        border: 24px solid #FF676D;
+        left: 650px;
+        margin-left: 53px;
+        border-right: 2px solid transparent;
+        border-left: 2px solid transparent;
+    }
+    .logo_section .logo_team {
+        width: 400px;
+        margin-left: 735px;
+        margin-top: 165px;
+        animation: to_right1 2.5s;
+    }
+    .mySlides {
+        margin-top: 3000px;
+    
+      }
+      .prev, .next {
+          margin-top: 10750px;
+      }
+      
+    #team_liver .team_title {
+        left: 848px;
+        font-size: 85px;
+        top: 352px;
+    }
+    .logo_section .para_1 {
+        width: 1446px;
+        font-size: 58px;
+        margin-top: 854px;
+        margin-left: -810px;
+        opacity: 0.7;
+    }
+    .logo_section .para_2 {
+        width: 1446px;
+        font-size: 58px;
+        margin-top: 1154px;
+        margin-left: -1040px;
+        opacity: 0.7;
+
+    }
+    .logo_section .para_3 {
+        width: 1446px;
+        font-size: 58px;
+        margin-top: 1524px;
+        margin-left: -810px;  
+        opacity: 0.7;
+      }
+    .logo_section .para_4 {
+        width: 1446px;
+        font-size: 58px;
+        margin-top: 1900px;
+        margin-left: -1040px; 
+        opacity: 0.7;
+       }
+    .cup_video {
+        margin-top: 8767px;
+        width: 1960px;
+    }
+    .slideshow-container{
+        display: none;
+    }
+    .infor_coach{
+        margin-top: 15000px;
+    }
+    
+    #team_liver .team_title{
+        margin-top: 3000px;
+    }
+    .coach_title{
+        margin-top: 3000px;
+    }
+    #intro{
+        margin-top: -500px;
+    }
+    .fixture_map{
+        margin-top: 10795px;
+        width: 1960px;
+        height: 2725px;    
+    }
+    .list__dot{
+        margin-top: 15000px;
+    }
+    .img_shop{
+        margin-top: 12628px;
+        width: 1957px; 
+        height: 2758px;
+
+    }
+    #shop{
+        margin-top: 15020px;
+    }
+    .shop_title{
+        margin-top: 12867px;
+        margin-left: 500px;
+        font-size: 85px;
+        color: yellow;
+    }
+    
+    
+    #team_liver{
+        margin-top: -15700px;
+    }
+    .img_alison{
+        margin-top: 2550px;
+        width: 604px;
+        height: 1065px;
+        object-fit: cover;
+        border-radius: 80px;
+        margin-left: 672px;
+    }
+    .alison_infor .alison_name{
+        color: white;
+        margin-left: 811px;
+        margin-top: -318px;
+        text-align: center;
+        font-size: 109px;
+    }
+    .alison_infor .alison_vtri{
+        font-size: 70px;
+        margin-left: 924px;
+        margin-top: -117px;
+        position: absolute;
+    }
+    /*  */
+    .img_gomez{
+        margin-top: 3680px;
+        width: 604px;
+        height: 1065px;
+        object-fit: cover;
+        border-radius: 80px;
+        margin-left: -63px;
+    }
+    .gomez_infor .gomez_name{
+        color: white;
+        margin-left: -43px;
+        margin-top: 4200px;
+        text-align: center;
+        font-size: 109px;
+    }
+    .gomez_infor .gomez_vtri{
+        font-size: 70px;
+        margin-left: 44px;
+        margin-top: 4358px;
+        position: absolute;
+    }
+    /*  */
+    .img_robertson{
+        margin-top: 3644px;
+        width: 604px;
+        height: 1065px;
+        object-fit: cover;
+        border-radius: 80px;
+        margin-left: 54px;
+    }
+    .robertson_infor .robertson_name{
+        color: white;
+        margin-left: 68px;
+        margin-top: 4166px;
+        text-align: center;
+        font-size: 109px;
+    }
+    .robertson_infor .robertson_vtri{
+        font-size: 70px;
+        margin-left: 218px;
+        margin-top: 4327px;
+        position: absolute;
+    }
+    /*  */
+    .img_arnold{
+        margin-top: 4838px;
+        width: 604px;
+        height: 1065px;
+        object-fit: cover;
+        border-radius: 80px;
+        margin-left: 96px;
+    }
+    
+    .arnold_infor .arnol_name{
+        color: white;
+        margin-left: 183px;
+        margin-top: 5342px;
+        text-align: center;
+        font-size: 109px;
+    }
+    .arnold_infor .arnold_vtri{
+        font-size: 70px;
+        margin-left: 284px;
+    margin-top: 5520px;
+        position: absolute;
+    }
+    /*  */
+    .img_dijk{
+        margin-top: 4880px;
+        width: 604px;
+        height: 1065px;
+        object-fit: cover;
+        border-radius: 80px;
+        margin-left: 386px;
+    }
+    
+    .dijk_infor .dijk_name{
+        color: white;
+        margin-left: 408px;
+        margin-top: 5377px;
+        text-align: center;
+        font-size: 109px;
+    }
+    .dijk_infor .dijk_vtri{
+        font-size: 70px;
+        margin-left: 484px;
+        margin-top: 5551px;
+        position: absolute;
+    }
+    /*  */
+    .img_henderson{
+        margin-top: 5728px;
+        width: 604px;
+        height: 1065px;
+        object-fit: cover;
+        border-radius: 80px;
+        margin-left: -85px;
+    }
+    
+    .henderson_infor .henderson_name{
+        color: white;
+        margin-left: -64px;
+        margin-top: 6211px;
+        text-align: center;
+        font-size: 109px;
+    }
+    .henderson_infor .henderson_vtri{
+        font-size: 70px;
+        margin-left: 99px;
+        margin-top: 6402px;
+        position: absolute;
+    }
+    /*  */
+    .img_fabinho{
+        margin-top: 5781px;
+        width: 604px;
+        height: 1065px;
+        object-fit: cover;
+        border-radius: 80px;
+        margin-left: 638px;
+    }
+    
+    .fabinho_infor .fabinho_name{
+        color: white;
+        margin-left: 613px;
+        margin-top: 6258px;
+        text-align: center;
+        font-size: 109px;
+    }
+    .fabinho_infor .fabinho_vtri{
+        font-size: 70px;
+        margin-left: 730px;
+        margin-top: 6444px;
+        position: absolute;
+    }
+    /*  */
+    .img_thiago{
+        margin-top: 6931px;
+        width: 604px;
+        height: 1065px;
+        object-fit: cover;
+        border-radius: 80px;
+        margin-left: -344px;
+    }
+    
+    .thiago_infor .thiago_name{
+        color: white;
+        margin-left: -625px;
+        margin-top: 7409px;
+        text-align: center;
+        font-size: 109px;
+    }
+    .thiago_infor .thiago_vtri{
+        font-size: 70px;
+        margin-left: -522px;
+        margin-top: 7596px;
+        position: absolute;
+    }
+    /*  */
+    .img_mane{
+        margin-top: 6572px;
+        width: 604px;
+        height: 1065px;
+        object-fit: cover;
+        border-radius: 80px;
+        margin-left: 1051px;
+    }
+    
+    .mane_infor .mane_name{
+        color: white;
+        margin-left: 1054px;
+        margin-top: 7066px;
+        text-align: center;
+        font-size: 109px;
+    }
+    .mane_infor .mane_vtri{
+        font-size: 70px;
+        margin-left: 1157px;
+        margin-top: 7240px;
+        position: absolute;
+    }
+    /*  */
+    .img_firmino{
+        margin-top: 7649px;
+        width: 604px;
+        height: 1065px;
+        object-fit: cover;
+        border-radius: 80px;
+        margin-left: -319px;
+    }
+    
+    .firmino_infor .firmino_name{
+        color: white;
+        margin-left: -329px;
+        margin-top: 8113px;
+        text-align: center;
+        font-size: 109px;
+    }
+    .firmino_infor .firmino_vtri{
+        font-size: 70px;
+        margin-left: -184px;
+        margin-top: 8300px;
+        position: absolute;
+    }
+    /*  */
+    .img_salah{
+        margin-top: 7764px;
+        width: 604px;
+        height: 1065px;
+        object-fit: cover;
+        border-radius: 80px;
+        margin-left: 214px;
+    }
+    
+    .salah_infor .salah_name{
+        color: white;
+        margin-left: 213px;
+        margin-top: 8225px;
+        text-align: center;
+        font-size: 109px;
+    }
+    .salah_infor .salah_vtri{
+        font-size: 70px;
+        margin-left: 307px;
+        margin-top: 8415px;
+        position: absolute;
+    }
+    #coach_liver{
+        
+        margin-top: 18810px;
+    }
+    .infor_coach{
+        width: 1506px;
+        height: 583px;
+        margin-top: 9100px;
+        margin-left: 225px;
+        border-radius: 87px;
+    }
+    .text_name,
+    .text_country,
+    .text_date,
+    .text_gender
+    {
+        font-size: 70px;
+        padding: 38px 0;
+        margin-left:600px;
+    }
+    .text_name{
+        margin-top: 5px;
+        margin-left:600px;
+    }
+    .img_coach {
+        width: 500px;
+        height: 500px;
+        margin-top: 38px;
+        position: absolute;
+    }
+    .img_cham1 {
+        width: 850px;
+        height: 547px;
+        margin-top: 10000px;
+        margin-left: -381px;
+        border-radius: 87px;
+
+    }
+    .img_cham2 {
+        width: 850px;
+        height: 547px;
+        margin-top: 10000px;
+        margin-left: 117px;
+        border-radius: 87px;
+
+    }
+    .img_cham3 {
+        width: 850px;
+        height: 547px;
+        margin-top: 10333px;
+        margin-left: -381px;
+        border-radius: 87px;
+
+    }
+    .img_cham4 {
+        width: 850px;
+        height: 547px;
+        margin-top: 10333px;
+        margin-left: 117px;
+        border-radius: 87px;
+
+    }
+    #fixt{
+        position: absolute;
+        margin-top:10760px;
+    }
+    .fixtures_title{
+        color: black;
+        font-size: 85px;
+        margin-top: 10934px;
+        margin-left: 187px;
+    }
+    
+    .slideshow-container {
+        display: block;
+    }
+    .img_slider{
+        height: 675px;
+        margin-top: 7813px;
+        width: 1735px;
+        margin-left: -190px;
+        border-radius: 82px;
+    }
+    
+    .mySlides {
+        margin-top: 2883px;
+        margin-left: 302px;
+    
+      }
+    .prev, .next {
+        top: 2%;
+        margin-left: 112px;
+        padding: 50px;
+        font-size: 47px;
+    }
+    .next{
+        left: 1619px;
+        padding-right: 66px;    
+    }
+    .list__dot{
+        display: none;
+    }
+    /*  */
+    .form_uniform {
+        width: 679px;
+        top: 17421px;        
+        left: 180px;
+        height: 198px;
+        border-top-left-radius: 60px;
+        border-top-right-radius: 60px;
+
+    }
+    .cost_uniform {
+        font-size: 58px;
+    }
+    .buy_uniform {
+        padding: 12px 180px;
+        top: 84px;
+        left: 92px;
+        font-size: 59px;
+        border-radius: 30px;
+    }
+    .mySlides1 {
+        position: absolute;
+        top: 17615px;
+        left: 180px;
+        width: 680px;
+        border-bottom-left-radius: 60px;
+        border-bottom-right-radius: 60px;
+    }
+    /*  */
+    .mySlides2 {
+        position: absolute;
+        top: 17420px;
+        left: 1180px;
+        width: 680px;
+        height: 684px;
+        border-top-left-radius: 60px;
+        border-top-right-radius: 60px;
+    }
+    .form_living {
+        width: 679px;
+        top: 18103px;        
+        left: 1180px;
+        height: 198px;
+        border-bottom-left-radius: 60px;
+        border-bottom-right-radius: 60px;
+
+    }
+    .cost_living {
+        font-size: 58px;
+    }
+    .buy_living {
+        padding: 12px 180px;
+        top: 84px;
+        left: 92px;
+        font-size: 59px;
+        border-radius: 30px;
+    }
+    /*  */
+    .mySlides3 {
+        position: absolute;
+        top: 18738px;
+        height: 703px;
+        left: 1180px;
+        width: 680px;
+        border-bottom-left-radius: 60px;
+        border-bottom-right-radius: 60px;
+    }
+    .form_gift {
+        width: 679px;
+        top: 18542px;        
+        left: 1180px;
+        height: 198px;
+        border-top-left-radius: 60px;
+        border-top-right-radius: 60px;
+
+    }
+    .cost_gift {
+        font-size: 58px;
+    }
+    .buy_gift {
+        padding: 12px 180px;
+        top: 84px;
+        left: 92px;
+        font-size: 59px;
+        border-radius: 30px;
+    }
+    /*  */
+    .mySlides4 {
+        position: absolute;
+        top: 18542px;
+        height: 703px;
+        left: 180px;
+        width: 680px;
+        border-top-left-radius: 60px;
+        border-top-right-radius: 60px;
+    }
+    .form_sou {
+        width: 679px;
+        top: 19249px;        
+        left: 180px;
+        height: 198px;
+        border-bottom-left-radius: 60px;
+        border-bottom-right-radius: 60px;
+
+    }
+    .cost_sou {
+        font-size: 58px;
+    }
+    .buy_sou {
+        padding: 12px 180px;
+        top: 84px;
+        left: 92px;
+        font-size: 59px;
+        border-radius: 30px;
+    }
+    .modal_header {
+        height: 291px;
+        border-top-left-radius: 32px;
+        border-top-right-radius: 32px;
+        width: 1277px;
+    }
+    .modal_body {
+        padding: 5px 61px;        
+        height: 1294px;
+        border-bottom-left-radius: 32px;
+        border-bottom-right-radius: 32px;
+    }
+    .modal_label {
+        margin-left: 10px;
+        margin-top: 47px;
+        font-size: 70px;
+        margin-bottom: 19px;
+    }
+    .modal_input::placeholder{
+        font-size: 47px;  
+        margin-right: -80px;  
+    }
+    .modal_input {
+        margin-left: 8px;
+        padding-top: 60px;
+        padding-bottom: 60px;
+        padding-right: 903px;
+        padding-left: 69px;
+        margin-top: 12px;
+        border-radius: 80px;
+        border: 2px solid;
+    
+    }
+    .sign_in {
+        font-family: sans-serif;
+        text-align: center;
+        line-height: 99px;
+        color: white;
+        font-size: 131px;
+        padding-top: 78px;
+    }
+    .modal__close {
+        font-size: 75px;
+        padding: 49px;
+        line-height: 11px;
+        background-color: #f98866;
+        margin-right: 17px;
+    }
+    .modal_fogot {
+        font-size: 46px;
+        margin-left: 398px;
+        margin-top: 52px;
+        
+    }
+    .modal__fogot {
+        margin-left: 234px;
+        margin-top: 20px;
+        margin-bottom: 68px;
+    }
+    .modal_button {
+        margin-left: 8px;
+        text-decoration: none;
+        background-color: #f98866;
+        padding: 33px 454px;
+        border-radius: 76px;
+        color: white;
+        font-size: 63px;
+    }
+    .modal__sign {
+        font-size: 61px;
+        margin-top: 41px;
+    }
+    .fa-facebook,
+    .fa-google,
+    .fa-twitter{
+        font-size: 80px;
+    }
+    .modal__social {
+        margin-left: 438px;
+        margin-top: 9px;
+        color: white;
+    }
+    .modal_account {
+        margin-top: -211px;
+        margin-left: 351px;
+        font-size: 61px;
+    }
+    .sign_up {
+        text-decoration: none;
+        margin-left: 407px;
+        font-size: 66px;
+        color: #80bd9e;
+    }
+    .modal__close:hover{
+        color: white;
+        background-color: #80bd9e;
+        transform: rotate(360deg);
+        transition: 1s ease;
+    }
+    
+
+}
+
+   
+@media screen and (max-width: 46.1875em){
+    .img-map{
+        position: absolute;
+        width: 1501px;
+        height: 11082px;        
+        margin-top: -3010px;    
+    }
+    
+    #header{
+        overflow: hidden;
+        display: none;
+    }
+    #nav:first-child{
+        display: inline-block;
+    }
+    .coach_title{
+        top: 8200px;
+        color: black;
+        left: 610px;
+        font-size: 85px;
+
+    }
+    .title_intro{
+        left: 539px;
+        font-size: 85px;
+    }
+    .second_container {
+        height: 137px;
+        width: 1954px;
+    }
+    .fas{
+        line-height: 120px;
+        font-size: 50px;
+    }
+    .search-box .icon {
+        position: absolute;
+        width: 113px;
+        height: 113px;
+        line-height: 76px;
+        border-radius: 20px;
+        padding-left: 31px;        
+        padding-right: 74px;
+    }
+    #check:checked ~ .search-box .icon{
+        padding-right: 88px;
+    }
+    .search-box input {
+        height: 78px;
+        padding: 56px 0;
+        padding-left: 20px;
+    }
+    .box .search-box {
+        left: 6em;
+    }
+    #header{
+        padding: 17px 36px;
+        left: -86px;
+    }
+    #nav > li > a {
+        font-size: 39px;
+        padding: 0px 16px;
+        line-height: 42px;
+    }
+    .img_leaguge {
+        width: 114px;
+        margin-left: 77em;        
+    }
+    .search-box input::placeholder{
+        font-size: 37px;
+    }
+    #check:checked ~ .search-box .icon{
+        background: black;
+        color: #FFF;
+        width: 0px;
+        border-radius: 0 25px 25px 0;
+    }
+    #nav li:hover .subnab_1,
+    #nav li:hover .subnab_2,
+    #nav li:hover .subnab_3,
+    #nav li:hover .subnab_4{
+        display: none;
+    }
+    #nav > li > a:hover{
+        background-color: #4DBDFF;
+        color: white;
+        transition: 0.6s ease;
+    }
+    .ring_logo2 {
+        height: 600px;
+        width: 600px;
+        left: 29em;
+        margin-left: 60px;
+        border: 20px solid black;
+        border-right: 2px solid transparent;
+        border-left: 2px solid transparent;
+    }
+    .ring_logo1 {
+        height: 500px;
+        width: 500px;
+        border: 24px solid #FF676D;
+        left: 32em;
+        top: 11em;
+        margin-left: 53px;
+        border-right: 2px solid transparent;
+        border-left: 2px solid transparent;
+    }
+    .logo_section .logo_team {
+        width: 303px;
+        margin-left: 631px;
+        margin-top: 216px;
+        animation: to_right1 2.5s;
+    }
+   
+    .mySlides {
+        margin-top: 3000px;
+    
+      }
+      .prev, .next {
+          margin-top: 10750px;
+      }
+      
+    #team_liver .team_title {
+        left: 646px;
+        font-size: 85px;
+        top: 352px;
+    }
+    .logo_section .para_1 {
+        width: 1446px;
+        font-size: 58px;
+        margin-top: 854px;
+        margin-left: -945px;
+        opacity: 0.7;
+    }
+    .logo_section .para_2 {
+        width: 1446px;
+        font-size: 58px;
+        margin-top: 1154px;
+        margin-left: -945px;
+        opacity: 0.7;
+
+    }
+    .logo_section .para_3 {
+        width: 1446px;
+        font-size: 58px;
+        margin-top: 1524px;
+        margin-left: -945px;  
+        opacity: 0.7;
+      }
+    .logo_section .para_4 {
+        width: 1446px;
+        font-size: 58px;
+        margin-top: 1900px;
+        margin-left: -945px; 
+        opacity: 0.7;
+       }
+    .coach_container{
+        display: block;
+    }
+    .infor_text {
+        margin-top: 50px;
+        font-size: 18px;
+        margin-left: -73px;
+        text-align: center;
+        line-height: 40px;
+    }
+    .cup_video {
+        margin-top: 8767px;
+        width: 1505px;
+    }
+    .slideshow-container{
+        display: block;
+    }
+    .infor_coach{
+        margin-top: 15000px;
+        width: 1282px;
+        height: 583px;
+        margin-top: 9100px;
+        margin-left: 116px;
+        border-radius: 87px;
+    }
+    
+    #team_liver .team_title{
+        margin-top: 3000px;
+    }
+    .coach_title{
+        margin-top: 3000px;
+    }
+    #intro{
+        margin-top: -500px;
+    }
+    .fixture_map{
+        margin-top: 13251px;
+        width: 1502px;
+        height: 2396px;
+
+    }
+    .list__dot{
+        margin-top: 15000px;
+    }
+    .img_shop{
+        margin-top: 14628px;
+        width: 1502px; 
+        height: 2758px;
+
+    }
+    #shop{
+        margin-top: 15020px;
+    }
+    .shop_title{
+        margin-top: 14867px;
+        margin-left: 500px;
+        font-size: 85px;
+        color: yellow;
+    }
+    
+    
+    #team_liver{
+        margin-top: -15700px;
+    }
+    .img_alison{
+        margin-top: 2550px;
+        width: 604px;
+        height: 1065px;
+        object-fit: cover;
+        border-radius: 80px;
+        margin-left: 478px;
+    }
+    .alison_infor .alison_name{
+        color: white;
+        margin-left: 642px;
+        margin-top: -318px;
+        text-align: center;
+        font-size: 109px;
+    }
+    .alison_infor .alison_vtri{
+        font-size: 70px;
+        margin-left: 760px;
+        margin-top: -117px;
+        position: absolute;
+    }
+    /*  */
+    .img_gomez{
+        margin-top: 3680px;
+        width: 604px;
+        height: 1065px;
+        object-fit: cover;
+        border-radius: 80px;
+        margin-left: -203px;
+    }
+    .gomez_infor .gomez_name{
+        color: white;
+        margin-left: -177px;
+        margin-top: 4200px;
+        text-align: center;
+        font-size: 109px;
+    }
+    .gomez_infor .gomez_vtri{
+        font-size: 70px;
+        margin-left: -74px;
+        margin-top: 4358px;
+        position: absolute;
+    }
+    /*  */
+    .img_robertson{
+        margin-top: 3644px;
+        width: 604px;
+        height: 1065px;
+        object-fit: cover;
+        border-radius: 80px;
+        margin-left: -252px;
+    }
+    .robertson_infor .robertson_name{
+        color: white;
+        margin-left: -214px;
+        margin-top: 4166px;
+        text-align: center;
+        font-size: 109px;
+    }
+    .robertson_infor .robertson_vtri{
+        font-size: 70px;
+        margin-left: -42px;
+        margin-top: 4327px;
+        position: absolute;
+    }
+    /*  */
+    .img_arnold{
+        margin-top: 4838px;
+        width: 604px;
+        height: 1065px;
+        object-fit: cover;
+        border-radius: 80px;
+        margin-left: -39px;
+    }
+    
+    .arnold_infor .arnol_name{
+        color: white;
+        margin-left: 68px;
+        margin-top: 5342px;
+        text-align: center;
+        font-size: 109px;
+    }
+    .arnold_infor .arnold_vtri{
+        font-size: 70px;
+        margin-left: 177px;
+        margin-top: 5520px;
+        position: absolute;
+    }
+    /*  */
+    .img_dijk{
+        margin-top: 4880px;
+        width: 604px;
+        height: 1065px;
+        object-fit: cover;
+        border-radius: 80px;
+        margin-left: 80px;
+    }
+    
+    .dijk_infor .dijk_name{
+        color: white;
+        margin-left: 110px;
+        margin-top: 5377px;
+        text-align: center;
+        font-size: 109px;
+    }
+    .dijk_infor .dijk_vtri{
+        font-size: 70px;
+        margin-left: 201px;
+        margin-top: 5551px;
+        position: absolute;
+    }
+    /*  */
+    .img_henderson{
+        margin-top: 5728px;
+        width: 604px;
+        height: 1065px;
+        object-fit: cover;
+        border-radius: 80px;
+        margin-left: -217px;
+    }
+    
+    .henderson_infor .henderson_name{
+        color: white;
+        margin-left: -191px;
+        margin-top: 6211px;
+        text-align: center;
+        font-size: 109px;
+    }
+    .henderson_infor .henderson_vtri{
+        font-size: 70px;
+        margin-left: -25px;
+        margin-top: 6402px;
+        position: absolute;
+    }
+    /*  */
+    .img_fabinho{
+        margin-top: 5781px;
+        width: 604px;
+        height: 1065px;
+        object-fit: cover;
+        border-radius: 80px;
+        margin-left: 335px;
+    }
+    
+    .fabinho_infor .fabinho_name{
+        color: white;
+        margin-left: 347px;
+        margin-top: 6258px;
+        text-align: center;
+        font-size: 109px;
+    }
+    .fabinho_infor .fabinho_vtri{
+        font-size: 70px;
+        margin-left: 458px;
+        margin-top: 6444px;
+        position: absolute;
+    }
+    /*  */
+    .img_thiago{
+        margin-top: 6931px;
+        width: 604px;
+        height: 1065px;
+        object-fit: cover;
+        border-radius: 80px;
+        margin-left: -473px;
+    }
+    
+    .thiago_infor .thiago_name{
+        color: white;
+        margin-left: -761px;
+        margin-top: 7409px;
+        text-align: center;
+        font-size: 109px;
+    }
+    .thiago_infor .thiago_vtri{
+        font-size: 70px;
+        margin-left: -643px;
+        margin-top: 7596px;
+        position: absolute;
+    }
+    /*  */
+    .img_mane{
+        margin-top: 6572px;
+        width: 604px;
+        height: 1065px;
+        object-fit: cover;
+        border-radius: 80px;
+        margin-left: 744px;
+    }
+    
+    .mane_infor .mane_name{
+        color: white;
+        margin-left: 746px;
+        margin-top: 7066px;
+        text-align: center;
+        font-size: 109px;
+    }
+    .mane_infor .mane_vtri{
+        font-size: 70px;
+        margin-left: 866px;
+        margin-top: 7240px;
+        position: absolute;
+    }
+    /*  */
+    .img_firmino{
+        margin-top: 7649px;
+        width: 604px;
+        height: 1065px;
+        object-fit: cover;
+        border-radius: 80px;
+        margin-left: -441px;
+    }
+    
+    .firmino_infor .firmino_name{
+        color: white;
+        margin-left: -436px;
+        margin-top: 8113px;
+        text-align: center;
+        font-size: 109px;
+    }
+    .firmino_infor .firmino_vtri{
+        font-size: 70px;
+        margin-left: -305px;
+        margin-top: 8300px;
+        position: absolute;
+    }
+    /*  */
+    .img_salah{
+        margin-top: 7764px;
+        width: 604px;
+        height: 1065px;
+        object-fit: cover;
+        border-radius: 80px;
+        margin-left: -96px;
+    }
+    
+    .salah_infor .salah_name{
+        color: white;
+        margin-left: -91px;
+        margin-top: 8225px;
+        text-align: center;
+        font-size: 109px;
+    }
+    .salah_infor .salah_vtri{
+        font-size: 70px;
+        margin-left: 29px;
+        margin-top: 8415px;
+        position: absolute;
+    }
+    #coach_liver{
+        
+        margin-top: 18810px;
+    }
+    .infor_coach{
+        width: 1264px;
+        height: 583px;
+        margin-top: 9135px;
+        margin-left: 123px;
+    }
+    .text_name,
+    .text_country,
+    .text_date,
+    .text_gender
+    {
+        font-size: 61px;
+        padding: 38px 0;
+        margin-left:600px;
+    }
+    .text_name{
+        margin-top: 5px;
+        margin-left:600px;
+    }
+    .img_coach {
+        width: 500px;
+        height: 500px;
+        margin-top: 38px;
+        position: absolute;
+    }
+    .img_cham1 {
+        width: 1351px;
+        height: 778px;
+        margin-top: 10000px;
+        margin-left: -381px;
+        border-radius: 87px;
+
+    }
+    .img_cham2 {
+        width: 1351px;
+        height: 778px;
+        margin-top: 10891px;
+        margin-left: -828px;
+        border-radius: 87px;
+
+    }
+    .img_cham3 {
+        width: 1351px;
+        height: 778px;
+        margin-top: 11483px;
+        margin-left: -381px;
+        border-radius: 87px;
+
+    }
+    .img_cham4 {
+        width: 1351px;
+        height: 778px;
+        margin-top: 12369px;
+        margin-left: -829px;
+        border-radius: 87px;
+
+    }
+   
+    .fixtures_title{
+        color: black;
+        font-size: 85px;
+        margin-top: 13398px;
+        margin-left: -70px;
+        display: block;
+    }
+    
+    .slideshow-container {
+        display: block;
+    }
+    .img_slider {
+        height: 675px;
+        margin-top: 10177px;
+        width: 1334px;
+        margin-left: -224px;
+        border-radius: 82px;
+    }
+    
+    .mySlides {
+        margin-top: 2883px;
+        margin-left: 302px;
+    
+      }
+    .prev, .next {
+        top: 2582px;
+        margin-left: 81px;
+        padding: 50px;
+        font-size: 47px;
+    }
+    .next{
+        left: 1211px;
+        padding-right: 66px;    
+    }
+    .list__dot{
+        display: none;
+    }
+    /*  */
+    .form_uniform {
+        width: 679px;
+        top: 19447px;
+        left: 53px;
+        height: 198px;
+        border-top-left-radius: 60px;
+        border-top-right-radius: 60px;
+
+    }
+    .cost_uniform {
+        font-size: 58px;
+    }
+    .buy_uniform {
+        padding: 12px 180px;
+        top: 84px;
+        left: 92px;
+        font-size: 59px;
+        border-radius: 30px;
+    }
+    .mySlides1 {
+        position: absolute;
+        top: 19644px;
+        left: 52px;
+        width: 680px;
+        border-bottom-left-radius: 60px;
+        border-bottom-right-radius: 60px;
+    }
+    /*  */
+    .mySlides2 {
+        position: absolute;
+        top: 19450px;
+        left: 788px;
+        width: 680px;
+        height: 684px;
+        border-top-left-radius: 60px;
+        border-top-right-radius: 60px;
+    }
+    .form_living {
+        width: 679px;
+        top: 20131px;        
+        left: 792px;
+        height: 198px;
+        border-bottom-left-radius: 60px;
+        border-bottom-right-radius: 60px;
+
+    }
+    .cost_living {
+        font-size: 58px;
+    }
+    .buy_living {
+        padding: 12px 180px;
+        top: 84px;
+        left: 92px;
+        font-size: 59px;
+        border-radius: 30px;
+    }
+    /*  */
+    .mySlides3 {
+        position: absolute;
+        top: 20669px;
+        height: 703px;
+        left: 795px;
+        width: 680px;
+        border-bottom-left-radius: 60px;
+        border-bottom-right-radius: 60px;
+    }
+    .form_gift {
+        width: 679px;
+        top: 20473px;        
+        left: 795px;
+        height: 198px;
+        border-top-left-radius: 60px;
+        border-top-right-radius: 60px;
+
+    }
+    .cost_gift {
+        font-size: 58px;
+    }
+    .buy_gift {
+        padding: 12px 180px;
+        top: 84px;
+        left: 92px;
+        font-size: 59px;
+        border-radius: 30px;
+    }
+    /*  */
+    .mySlides4 {
+        position: absolute;
+        top: 20478px;
+        height: 703px;
+        left: 54px;
+        width: 680px;
+        border-top-left-radius: 60px;
+        border-top-right-radius: 60px;
+    }
+    .form_sou {
+        width: 679px;
+        top: 21177px;
+        left: 53px;
+        height: 198px;
+        border-bottom-left-radius: 60px;
+        border-bottom-right-radius: 60px;
+
+    }
+    .cost_sou {
+        font-size: 58px;
+    }
+    .buy_sou {
+        padding: 12px 180px;
+        top: 84px;
+        left: 92px;
+        font-size: 59px;
+        border-radius: 30px;
+    }
+    .modal_header {
+        height: 291px;
+        border-top-left-radius: 32px;
+        border-top-right-radius: 32px;
+        width: 1277px;
+    }
+    .modal_body {
+        padding: 5px 61px;        
+        height: 1294px;
+        border-bottom-left-radius: 32px;
+        border-bottom-right-radius: 32px;
+    }
+    .modal_label {
+        margin-left: 10px;
+        margin-top: 47px;
+        font-size: 70px;
+        margin-bottom: 19px;
+    }
+    .modal_input::placeholder{
+        font-size: 47px;  
+        margin-right: -80px;  
+    }
+    .modal_input {
+        margin-left: 8px;
+        padding-top: 60px;
+        padding-bottom: 60px;
+        padding-right: 903px;
+        padding-left: 69px;
+        margin-top: 12px;
+        border-radius: 80px;
+        border: 2px solid;
+    
+    }
+    .sign_in {
+        font-family: sans-serif;
+        text-align: center;
+        line-height: 99px;
+        color: white;
+        font-size: 131px;
+        padding-top: 78px;
+    }
+    .modal__close {
+        font-size: 75px;
+        padding: 49px;
+        line-height: 11px;
+        background-color: #f98866;
+        margin-right: 17px;
+    }
+    .modal_fogot {
+        font-size: 46px;
+        margin-left: 398px;
+        margin-top: 52px;
+        
+    }
+    .modal__fogot {
+        margin-left: 234px;
+        margin-top: 20px;
+        margin-bottom: 68px;
+    }
+    .modal_button {
+        margin-left: 8px;
+        text-decoration: none;
+        background-color: #f98866;
+        padding: 33px 454px;
+        border-radius: 76px;
+        color: white;
+        font-size: 63px;
+    }
+    .modal__sign {
+        font-size: 61px;
+        margin-top: 41px;
+    }
+    .fa-facebook,
+    .fa-google,
+    .fa-twitter{
+        font-size: 80px;
+    }
+    .modal__social {
+        margin-left: 438px;
+        margin-top: 9px;
+        color: white;
+    }
+    .modal_account {
+        margin-top: -211px;
+        margin-left: 351px;
+        font-size: 61px;
+    }
+    .sign_up {
+        text-decoration: none;
+        margin-left: 407px;
+        font-size: 66px;
+        color: #80bd9e;
+    }
+    .modal__close:hover{
+        color: white;
+        background-color: #80bd9e;
+        transform: rotate(360deg);
+        transition: 1s ease;
+    }
+    
+
+}
